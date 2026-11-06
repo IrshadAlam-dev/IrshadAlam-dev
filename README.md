@@ -76,21 +76,16 @@
 
 <div align="center">
   <h2>GitHub Stats</h2>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IrshadAlam-dev&show_icons=true&hide_border=true&bg_color=0B1020&title_color=2DD4BF&icon_color=38BDF8&text_color=CBD5E1" alt="GitHub statistics">
+  <a href="https://github.com/IrshadAlam-dev?tab=followers"><img src="https://img.shields.io/github/followers/IrshadAlam-dev?style=for-the-badge&logo=github&label=Followers&color=0F766E" alt="GitHub followers"></a>
   &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrshadAlam-dev&layout=compact&hide_border=true&bg_color=0B1020&title_color=2DD4BF&text_color=CBD5E1" alt="Most used programming languages">
+  <a href="https://github.com/IrshadAlam-dev?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View-334155?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub repositories"></a>
+  <p><a href="https://github.com/IrshadAlam-dev">Explore my GitHub profile and contribution history →</a></p>
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=IrshadAlam-dev&background=0B1020&border=1E293B&stroke=1E293B&ring=2DD4BF&fire=38BDF8&currStreakLabel=2DD4BF&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=CBD5E1" alt="GitHub contribution streak">
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IrshadAlam-dev&bg_color=0B1020&color=CBD5E1&line=2DD4BF&point=38BDF8&area=true&area_color=164E63&title_color=2DD4BF&hide_border=true" alt="GitHub contribution activity graph" width="95%">
 </div>
 
 <br/><br/>
